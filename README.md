@@ -16,6 +16,10 @@ Remember to modify the path to the script
 
 ![SlicerSetup.png](assets/setup-slicer.png)
 
+Example Video
+
+https://raw.githubusercontent.com/dkmaker-xyz/Slic3r-PostProcessor/main/assets/example.mp4
+
 ## Script
 
 The post processer is downloadable as [Process.ps1](Process.ps1) in the repository
