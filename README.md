@@ -17,7 +17,7 @@ Remember to modify the path to the script
 ![SlicerSetup.png](assets/setup-slicer.png)
 
 Example Video on YouTube
-https://www.youtube.com/embed/D8nQydqAAsM 
+https://youtu.be/D8nQydqAAsM 
 
 ## Script
 
